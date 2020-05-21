@@ -1,0 +1,7 @@
+C:\PROJECTS\C#\exam1\exam1\bin\Debug\exam1.exe.config
+C:\PROJECTS\C#\exam1\exam1\bin\Debug\exam1.exe
+C:\PROJECTS\C#\exam1\exam1\bin\Debug\exam1.pdb
+C:\PROJECTS\C#\exam1\exam1\obj\Debug\exam1.csprojAssemblyReference.cache
+C:\PROJECTS\C#\exam1\exam1\obj\Debug\exam1.csproj.CoreCompileInputs.cache
+C:\PROJECTS\C#\exam1\exam1\obj\Debug\exam1.exe
+C:\PROJECTS\C#\exam1\exam1\obj\Debug\exam1.pdb
